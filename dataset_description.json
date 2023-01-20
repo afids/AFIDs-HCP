@@ -29,7 +29,7 @@
         "Jonathan C. Lau"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004253.v1.0.8",
-    "License": "CC0",
+    "License": "Custom (Image data: see IMAGING_DATA_USE_AGREEMENT.md, AFIDs data: CC-BY 4.0)",
     "Acknowledgements": "Data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.",
     "HowToAcknowledge": "If using AFIDs data, please cite: \nTaha, A. et al. Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration. bioRxiv 2022.11.21.516173 (2022) doi:10.1101/2022.11.21.516173"
 }
