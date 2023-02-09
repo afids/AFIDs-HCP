@@ -1,0 +1,15 @@
+{
+  "Name": "AFIDs Ideal Locations (ground-truth)",
+  "BIDSVersion": "1.7.0",
+  "PipelineDescription": {
+        "Name": "afids_ideal",
+        "Version": "1.0.0"
+        },
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "Manual",
+      "Description": "Placed each point within 3D Slicer, in subject space"
+    }
+  ]
+}
