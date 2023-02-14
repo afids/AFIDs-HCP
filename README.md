@@ -10,7 +10,7 @@ Three independent raters annotated all the 30 subjects for a total of three AFID
 
 Imaging data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.
 
-IMPORTANT: Please note that by downloading and using imaging data in this dataset, you confirm that you have read and agreed to the WU-Minn HCP Consortium Open Access Data Use Terms outlined here: https://www.humanconnectome.org/study/hcp-young-adult/document/wu-minn-hcp-consortium-open-access-data-use-terms and available in `IMAGING_DATA_USE_AGREEMENT.txt`.
+IMPORTANT: Please note that by downloading and using imaging data in this dataset, you confirm that you have read and agreed to the WU-Minn HCP Consortium Open Access Data Use Terms outlined here: https://www.humanconnectome.org/study/hcp-young-adult/document/wu-minn-hcp-consortium-open-access-data-use-terms and available in `IMAGING_DATA_USE_AGREEMENT.md`.
 
 AFID placement data are released under the Attribution 4.0 International (CC BY 4.0) license, available in `DERIVATIVE_DATA_USE_AGREEMENT.txt`.
 
