@@ -19,7 +19,7 @@ AFID placement data are released under the Attribution 4.0 International (CC BY 
 The DataLad image links are adapted from the existing Human Connectome Project Open Access DataLad dataset (https://github.com/datalad-datasets/human-connectome-project-openaccess). The following data access and retrieval instructions are taken from that dataset's readme.
 
 To retrieve HCP Open Access data via DataLad with this dataset, you need to agree
-to the [WU-Minn HCP Consortium Open Access Data Use Terms](https://github.com/afids/AFIDs-HCP/blob/main/IMAGING_DATA_USE_AGREEMENT.md) 
+to the WU-Minn HCP Consortium Open Access Data Use Terms (linked above) 
 and obtain valid AWS credentials:
 
 - Create an account at http://db.humanconnectome.org.
